@@ -1,0 +1,64 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+body {
+	margin: 15px;
+}
+
+.box {
+	width: 31.5%;
+	/*min-width:100px;*/
+	height: 100px;
+	display: inline-block;
+	/*margin-bottom: 10px;*/
+}
+
+.longBox {
+	height: 250px;
+	width: 100%;
+	margin-bottom: 20px;
+}
+
+.mdBox {
+	height: 250px;
+	width: 30%;
+	margin-bottom: 20px;
+}
+
+.min {
+	height: 100px;
+}
+
+/* COLOR */
+.red {
+	background-color: #D0021B;
+	margin-right: 2%;
+}
+
+.blue {
+	background-color: #4A90E2;
+	margin-right: 2%;
+}
+
+.black {
+	background-color: #4A4A4A;
+}
+
+/* POSITION */
+.right {
+	float: right;
+	margin-right: 0px;
+}
+
+.center {
+	width: 70%;
+	margin: auto;
+}
+
+/* TEXT */
+.main {
+	margin: 10px;
+	margin-bottom: 20px;
+}
